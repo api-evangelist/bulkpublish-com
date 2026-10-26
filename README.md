@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BulkPublish is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.bulkpublish.com
+BulkPublish is a social media scheduling and publishing platform that enables users to post to multiple social networks simultaneously, manage multiple accounts, schedule content, and leverage AI-powered caption assistance. It offers free, Pro, and Business plans with features like bulk uploads, analytics, team collaboration, and API/MCP support for developers.
+
+**Areas:** Company · Social Media · Scheduling · Publishing · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.bulkpublish.com)
+- [Documentation](https://help.bulkpublish.com/)
+- [Getting started](https://help.bulkpublish.com/hc/bulkpublish/en/categories/getting-started)
+- [API reference](https://app.bulkpublish.com/docs)
+- [Pricing](https://www.bulkpublish.com/pricing/)
+- [Support](https://help.bulkpublish.com)
+- [Blog](https://www.bulkpublish.com/blog/)
+- [Terms of service](https://www.bulkpublish.com/terms/)
+- [Privacy policy](https://www.bulkpublish.com/privacy/)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/bulkpublish-com/](https://apis.io/providers/bulkpublish-com/).
